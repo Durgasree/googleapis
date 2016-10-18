@@ -1,0 +1,50 @@
+.modal_class{
+	padding-top: 300px !important;
+	background-color: #1A237E !important;
+}
+
+.gmail_home{
+	top: 0% !important;	
+	margin: 10px;
+	background-color: #8D6E63;
+}
+
+body{
+	background-color: #1A237E !important;
+}
+
+.modal-body{
+	margin: 20px !important;
+}
+
+.gmail_body{
+	background-color: #004D40 !important;
+}
+.gmail_side_bar{
+	height: 850px;
+	background-color: #3F51B5;
+	margin: 5px;
+	margin-left: 10px;
+}
+
+.side_menu{
+	margin-top: 15px;
+	margin-bottom: 30px;
+	color: #fff !important;
+}
+
+.gmail_panel{
+	height: 52px;
+	background-color: #3F51B5;
+	margin-top: 5px;
+	color: #fff;
+	margin-left: 20px;
+}
+.fa-icon-white{
+	background-color: #fff !important;
+}
+
+.mail_from .mail_subject{
+	background-color: #fff !important;
+	margin: 5px !important;
+}

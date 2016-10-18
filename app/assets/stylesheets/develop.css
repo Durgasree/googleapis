@@ -1,0 +1,57 @@
+.google_maps_view{
+	background-color: #428bca;
+	margin-top: 0px !important;
+}
+
+
+#map {
+	padding: 50px;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+  height: 800px;
+  width: 900px;
+}
+
+.menu
+{
+	margin-top: 100px !important;
+	/*margin-left: -380px !important;*/
+
+}
+
+.navbar-header{
+	margin-top: 0px !important;
+	margin-bottom: 20px !important;
+}
+
+.navbar.navbar, .navbar-default.navbar .navbar.navbar, .navbar-default.navbar .navbar-collapse collapse navbar-responsive-collapse{
+	background-color: rgba(0, 98, 150, 0.92);
+}
+.map-body{
+	color: #fff;
+	/*margin-top: 40px;*/
+	/*margin-left: -700px !important;*/
+}
+
+.map_view{
+	background-color: #428bca !important;
+}
+
+.map-heading{
+	margin-left: -300px !important;
+	color: #fff;
+} 
+
+td a{
+	color: #fff;
+}
+td a:hover{
+	color: #fff;
+}
+
+.header{
+	margin-top: 0px !important;
+	background-color: rgba(0, 0, 0, 0.1) !important;
+}
