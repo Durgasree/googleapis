@@ -1,6 +1,11 @@
 .modal_class{
-	padding-top: 300px !important;
+	padding-top: 100px !important;
 	background-color: #1A237E !important;
+}
+
+.modal_class_1{
+	height: 2300px !important;
+	width: 4020px !important;
 }
 
 .gmail_home{
@@ -8,7 +13,9 @@
 	margin: 10px;
 	background-color: #8D6E63;
 }
-
+.modal-body{
+	height: 600px !important;
+}
 body{
 	background-color: #1A237E !important;
 }

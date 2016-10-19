@@ -13,7 +13,5 @@
  *= require_tree .
  *= require_self
  *= require bootstrap-material-design
- *= require froala_editor.min.css
- *= require froala_style.min.css
- *= require font-awesome 
+ *= require font-awesome
  */

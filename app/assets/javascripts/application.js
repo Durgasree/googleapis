@@ -16,5 +16,4 @@
 //= require turbolinks
 //= require bootstrap-material-design
 //= require wow
-//= require tinymce
 //= require_tree .
